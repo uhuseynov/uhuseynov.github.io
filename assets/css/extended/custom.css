@@ -1,0 +1,14 @@
+#menu .theme-toggle-item {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+
+#menu .theme-toggle-item #theme-toggle {
+  padding: 0;
+  margin: 0;
+}
+
+#menu .theme-toggle-item:hover {
+  opacity: 0.8;
+}

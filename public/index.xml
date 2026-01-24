@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Umid&#39;s Cyber Security Journey</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Umid&#39;s Cyber Security Journey</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jan 2026 23:02:01 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sat, 24 Jan 2026 23:02:01 +0100</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi, I am a &lt;strong&gt;Computer Science&lt;/strong&gt; student with a strong interest in &lt;strong&gt;Cybersecurity and Artificial Intelligence&lt;/strong&gt;, particularly in how intelligent systems can support security monitoring and detection.&lt;/p&gt;
+&lt;p&gt;I am currently focused on building a solid foundation in core cybersecurity concepts, including system security, network fundamentals, threat analysis, and defensive security practices. Alongside this, I am interested in how AI and automation can be applied to areas such as log analysis, anomaly detection, and security operations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logs &amp; Monitoring</title>
+      <link>http://localhost:1313/posts/security-logs-user-account-abuse/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/security-logs-user-account-abuse/</guid>
+      <description>Introduction to how logs and monitoring help SOC analysts detect account abuse and security incidents.</description>
+    </item>
+  </channel>
+</rss>

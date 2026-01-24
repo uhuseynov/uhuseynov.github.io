@@ -1,0 +1,68 @@
+baseURL = "https://uhuseynov.github.io/"
+languageCode = "en-us"
+title = "Umid's Cyber Security Journey"
+theme = "PaperMod"
+
+[pagination]
+pageSize = 10
+
+[params]
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowCodeCopyButtons = true
+ShowToc = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowShareButtons = false
+ShowSearch = true
+
+mainSections = ["posts"]
+
+[params.profileMode]
+enabled = true
+title = "Umid Huseynov"
+subtitle = "Aspiring Junior SOC Analyst | Cybersecurity Fundamentals | Defensive Security"
+imageUrl = "/images/profile-photo.jpeg"
+imageTitle = "Profile photo"
+imageWidth = 140
+imageHeight = 140
+
+[[params.profileMode.buttons]]
+name = "Posts"
+url = "/posts/"
+
+[[params.profileMode.buttons]]
+name = "About"
+url = "/about/"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/uhuseynov"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/uhuseynov/"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:umidhuseynov480@gmail.com"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+
+
+
