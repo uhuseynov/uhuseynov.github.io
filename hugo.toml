@@ -1,6 +1,6 @@
 baseURL = "https://uhuseynov.github.io/"
 languageCode = "en-us"
-title = "Umid's Cyber Security Journey"
+title = "Umid's Cyber Journey"
 theme = "PaperMod"
 
 [pagination]
